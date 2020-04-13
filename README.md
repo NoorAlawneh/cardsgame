@@ -1,4 +1,4 @@
-# 21cardsgame
+# cardsgame
 The Twenty One Cards Game
 This is a well known card trick game that is performed by beginner magicians.
 The game uses a selection of 21 cards out of a standard deck. These are shuffled and the player
